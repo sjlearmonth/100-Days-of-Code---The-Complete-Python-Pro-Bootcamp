@@ -6,7 +6,14 @@
 
 This repository contains all of my Python programming attempts of the Python coding challenges set in the course 100 Days of Code: The Complete Python Pro Bootcamp by instructor Dr. Angela Yu published on [Udemy](https://www.udemy.com).
 
-The repository is structured by having 100 directories, one for each of the 100 days of coding in the course. So the first day's coding challenge solution is contained in the directory ```Day-001```. Each directory contains a README.MD file which describes the project for that particular day of coding in the course.
+The repository is structured by having 100 directories, one for each of the 100 days of coding in the course. So the first day's coding challenge solution is contained in the directory ```Day-001``` the second day's coding challenge solution is contained in the directory ```Day-002``` and so on up to the last day's coding challenge solution in the directory ```Day-100```. Each directory contains a README.MD file which describes the project for that particular day of coding in the course.
+
+### Motivation
+
+My personal motivation for studying this course is to learn new skills in Python programming and development and ultimately use my skills to become a Machine Learning Engineer using Python to develop software systems and applications in industry.
+
+I have previously held positions in industry as a DSP (Digital Signal Processing) Engineer where I designed, developed, implemented, tested and deployed DSP software solutions for GSM basestation, GSM mobile handset and satellite demodulator systems. I took a career break to care for my wife who suffered a stroke and subsequently became disabled however I am now ready and available to resume my career as a Machine Learning Engineer working remotely from home for any employer in the world who embraces the exciting future that lies ahead in Machine Learning.
+
 
 
 
