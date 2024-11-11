@@ -8,6 +8,8 @@ This repository contains all of my Python programming attempts of the Python cod
 
 I used the PyCharm Community Edition IDE from JETBRAINS available [here](https://www.jetbrains.com/pycharm/). I always checked that I was using the most up-to-date version of the IDE everyday that I spent writing Python code in the course.
 
+Most of the input and output for the Python coding challenges I have attempted use the console the PyCharm CE IDE.
+
 The repository is structured by having 100 directories, one for each of the 100 days of coding in the course. So the first day's coding challenge solution is contained in the directory ```Day-001``` the second day's coding challenge solution is contained in the directory ```Day-002``` and so on up to the last day's coding challenge solution in the directory ```Day-100```. Each directory contains a README.MD file which describes the project for that particular day of coding in the course.
 
 ### Motivation
