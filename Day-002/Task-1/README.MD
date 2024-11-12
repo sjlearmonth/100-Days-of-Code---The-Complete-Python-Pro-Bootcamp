@@ -11,7 +11,7 @@ THese are as folllows;
 
 ## Strings
 
-Strings are a series of characters enclosed in double quotes ```"``` or single quotes ```'```. They can include any letter, digit or punctuation symbol, such as ```"123 Orchard Drive, Glasgow"```. Individual characters can be accessed in Python by using an operation knowm as "subscripting". This is done by appending left and right square brackets, ```[``` and ```]```, to the end of the string value and placing an integer value between them, like this ```"Hello world."[1]```. The integer value indicates which characater in the string is being accessed, so ```"Hello world.[0]"``` accesses the first character, ```"Hello world."[1]``` the second character and so on.
+Strings are a series of characters enclosed in double quotes ```"``` or single quotes ```'```. They can include any letter, digit or punctuation symbol, such as ```"123 Orchard Drive, Glasgow"```. Individual characters can be accessed in Python by using an operation known as "subscripting". This is done by appending left and right square brackets, ```[``` and ```]```, to the end of the string value and placing an integer value between them, like this ```"Hello world."[1]```. The integer value indicates which character in the string is being accessed, so ```"Hello world.[0]"``` accesses the first character, ```"Hello world."[1]``` the second character and so on.
 
 ## Integers
 
