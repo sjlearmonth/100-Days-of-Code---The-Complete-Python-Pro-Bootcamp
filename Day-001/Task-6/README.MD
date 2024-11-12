@@ -6,7 +6,7 @@ The purpose of this task is to write a Python program which uses all of the prog
 
 ## Program Requirements
 
--    Create a greeting message for your progam.
+-    Create a greeting message for your program.
 -    Ask the user for the name of the city that they grew up in and store it in a variable with a suitable name.
 -    Ask the user for the name of a pet and store it in another variable with a suitable name.
 -    Combine the name of their city and the name of their pet and use it to print out the name of their band.
