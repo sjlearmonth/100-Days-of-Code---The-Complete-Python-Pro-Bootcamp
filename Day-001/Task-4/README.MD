@@ -8,7 +8,7 @@ Variables are like containers in a computer program and are used to hold many di
 
 ## PAUSE 1. Check the length of the user input.
 
-Here I use the built-in function '''input(...)''' in Python to get the user input by prompting the user for his or her name. The user input is then stored in the variable ```name```.
+Here I use the built-in function ```input(...)``` in Python to get the user input by prompting the user for his or her name. The user input is then stored in the variable ```name```.
 
 Next I use string concatenation to join together several other strings to be printed to the console which include the length of the user input. The length of the user input is calculated by callng the built-in function ```len(...)``` with user input variable ```name``` as an argument which then returns with an integer as the number of characters in the variable ```name```. The length of the user input is an integer so it must be converted into a string by calling the built-in function ```str(...)``` before it can be concatenated with the other strings in the ```print(...)``` function.
 
