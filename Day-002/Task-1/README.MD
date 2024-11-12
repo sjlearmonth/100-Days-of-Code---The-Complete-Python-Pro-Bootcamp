@@ -23,5 +23,6 @@ Floats are positive or negative numbers with a decimal point and a fractional pa
 
 ## Booelan
 
-Booelans have only two values, ```True``` or ```False```. They are used in programs when a decision needs to be made which has either a one value or the other. For example, a program might need to compare two number like ```30``` and ```40``` and decide which number is larger.
+Booelans have only two values, ```True``` or ```False```. They are used in programs when two values are compared and where the result of the comparison is either ```True``` or ```False```. For example, a program might need to compare the contents of two variables, holding integer values, against each other to test which one holds the larger value. So the result of the comparison can either be ```True``` or ```False```.
+
  
