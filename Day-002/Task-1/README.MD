@@ -11,7 +11,7 @@ THese are as folllows;
 
 ## Strings
 
-Strings are a series of characters enclosed in double quotes "\"" or single quotes "'". They can include any letter, digit or punctuation symbol, such as "123 Orchard Drive, Glasgow".
+Strings are a series of characters enclosed in double quotes ```"``` or single quotes ```'```. They can include any letter, digit or punctuation symbol, such as ```"123 Orchard Drive, Glasgow"```.
 
 ## Integers
 
