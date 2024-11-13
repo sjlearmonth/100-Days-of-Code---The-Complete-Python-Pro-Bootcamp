@@ -1,4 +1,4 @@
-# Task 5 - Variable Naming
+# Day 1 - Task 5 - Variable Naming
 
 # choose an easy and simple variable name for the user's name.
 username = "Angela"

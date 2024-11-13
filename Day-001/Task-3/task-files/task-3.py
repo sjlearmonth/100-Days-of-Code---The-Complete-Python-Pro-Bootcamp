@@ -1,4 +1,4 @@
-# Task 3 - Inputs
+# Day 1 - Task 3 - Inputs
 
 # PAUSE 1 - Update the code to add an exclamation mark.
 

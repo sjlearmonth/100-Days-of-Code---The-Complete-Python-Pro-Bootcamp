@@ -1,4 +1,4 @@
-# Task 6 - Band Name Generator Project
+# Day 1 - Task 6 - Band Name Generator Project
 
 # print out message to user to the console
 print("Welcome to the Band Name Generator.")

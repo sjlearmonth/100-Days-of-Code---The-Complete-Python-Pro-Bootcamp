@@ -1,3 +1,5 @@
+# Day 2 - Task 1 - Data Types
+
 # Print a string to the console.
 print("Hello world.")
 
