@@ -7,7 +7,7 @@ The purpose of this task is to learn about the four mathematical operators;
 -    Multiply - ```*```
 -    Divide - ```/```
 
-There is a computer programming rule in Python which tells us which operators are used first in a mathematical expression containing several different operators. It is the acronym "PEMDAS" which stands for Parentheses, Exponents, Multiplication, Division, Addition, Subtraction. It tells us the order in which Python evaluates a mathematical expression containing different operators. So Parentheses around an expression are evaluated first, followed by any exponential expressions, then Multiplication and Division evaluated equally and finally Addition and Subtraction evaluated  equally.
+There is a computer programming rule in Python which tells us which operators are used first in a mathematical expression containing several different operators. It is the acronym "PEMDAS" which stands for Parentheses, Exponents, Multiplication, Division, Addition, Subtraction. It tells us the order in which Python evaluates a mathematical expression containing different operators. So Parentheses around an expression are evaluated first, followed by any Exponents expressions,  then Multiplication and Division evaluated equally and finally Addition and Subtraction evaluated equally.
 
 #### PAUSE 1. What is the output of this code?
 
