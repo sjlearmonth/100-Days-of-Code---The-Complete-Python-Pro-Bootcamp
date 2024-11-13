@@ -16,7 +16,7 @@ Rounding a number like a float value means converting the number to the whole nu
 
 #### PAUSE 3. Assignment Operators.
 
-There are four assignment opoerators in the Python programming language.
+There are four assignment operators in the Python programming language.
 
 -    ```+=```
 -    ```-=```
