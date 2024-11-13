@@ -4,7 +4,7 @@ The purpose of this task is to learn about data type errors, how to check the da
 
 ## PAUSE 1. TypeError
 
-When a value is passed to a function in Python and it is the incorrect data type for that function and error is generated in the console. This is illustrated by passing an integer value to the built-in function ```len(...)``` which accepts only string values. The following error message is generated in the console;
+When a value is passed to a function in Python and it is the incorrect data type for that function an error is generated in the console. This is illustrated by passing an integer value to the built-in function ```len(...)``` which accepts only string values. The following error message is generated in the console;
 
    ```TypeError: object of type 'int' has no len()```
 
