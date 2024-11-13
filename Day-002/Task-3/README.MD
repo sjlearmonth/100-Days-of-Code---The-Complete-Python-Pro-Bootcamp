@@ -15,5 +15,5 @@ The ```print(...)``` function is called with a mathematical expression containin
 
 #### PAUSE 2. Change the code so that it outputs 3.
 
-By observing that Parentheses are evalauted first according to the PEMDAS rule, I can force the addition of ```3 + 3``` to be evaluted first giving the result ```6```. The multiplication and division operations are then evaluated equally giving the result ```3 * 6 / 3``` or ```3 * 2``` which is ```6'''. Finally the subtraction operation is performed giving the correct answer ```6 - 3``` or ```3```.
+By observing that Parentheses are evalauted first according to the PEMDAS rule, I can force the addition of ```3 + 3``` to be evaluted first giving the result ```6```. The multiplication and division operations are then evaluated equally giving the result ```3 * 6 / 3``` or ```3 * 2``` which is ```6```. Finally the subtraction operation is performed giving the correct answer ```6 - 3``` or ```3```.
    
