@@ -23,3 +23,4 @@ Python has a built-in function called ```type(...)``` which accepts a value havi
 
 Here I have to edit a line of code so that no type error is reported in the console. A type error is reported because the ```len(...)``` function returns an integer data type and string concatenation inside the ```print(...)``` function requires there to be only string data types. So the built-in function ```str(...)``` is called with the return value of the ```len(...)``` function to convert the integer value into a string value.
 
+It is important to note  here that although the ```print(...)``` function called at the end of the program, it is actually the ```input(...)`` function, inside the ```print(...)``` function, which is called first to capture user input which is subsequently processed before everything inside the ```print(...)``` function is printed to the console.
