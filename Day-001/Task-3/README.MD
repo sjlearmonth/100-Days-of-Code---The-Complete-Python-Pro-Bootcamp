@@ -2,7 +2,7 @@
 
 The purpose of this task is to learn and to practice the use of the built-in function ```input(...)```.
 
-### PAUSE 1. Update the code to add an exclamation mark.
+#### PAUSE 1. Update the code to add an exclamation mark.
 
 I learned how to use string concatenation to inserted user input between two other strings. User input is captured using the built-in function```input(...)``` which is called inside the ```print(...)``` function and between two other strings ```Hello ``` and ```!```.
 
