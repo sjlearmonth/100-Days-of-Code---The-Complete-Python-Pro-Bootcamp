@@ -2,7 +2,7 @@
 
 The purpose of this task is to learn about the four primary data types in the Python programming language.
 
-THese are as folllows;
+These are as folllows;
 
 -    Strings
 -    Integers
