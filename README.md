@@ -4,7 +4,7 @@
 
 ### Introduction
 
-This repository contains all of my Python programming attempts of the Python coding challenges set in the course 100 Days of Code: The Complete Python Pro Bootcamp by instructor Dr. Angela Yu published on [Udemy](https://www.udemy.com).
+This repository contains all of my Python programming attempts of the Python coding challenges set in the course [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=2021PM20) by instructor Dr. Angela Yu published on [Udemy](https://www.udemy.com).
 
 I used the PyCharm Community Edition IDE from JETBRAINS available [here](https://www.jetbrains.com/pycharm/). I always checked that I was using the most up-to-date version of the IDE everyday that I spent writing Python code in the course.
 
