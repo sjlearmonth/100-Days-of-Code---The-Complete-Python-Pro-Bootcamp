@@ -42,4 +42,3 @@ print(value)
 age = 12
 print(f"I am {age} years old.")
 
-/Users/StephenLearmonth/PycharmProjects/"100 Days of Code - The Complete Python Pro Bootcamp2"/"Day 2"/"Number Manipulation"/task.py
