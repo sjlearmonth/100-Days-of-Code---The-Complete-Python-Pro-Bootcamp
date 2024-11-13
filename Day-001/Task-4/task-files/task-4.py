@@ -1,45 +1,22 @@
-# Day 2 - Task 4 - Number Manipulation
+# Task 4 - Variables
 
-# PAUSE 1. Flooring a number.
+# PAUSE 1 - Check the length of the user input.
 
-# Floor a float number by removing the fractional part after the decimal
-# point leaving an integer.
-print(int(3.14159))
+# print out the message to the user to the user to get the input of his/her name.
+name = input("What is your name? ")
 
-# PAUSE 2. Rounding a number.
+# use concatenation to print out the user's name and the number of characters in it
+# to the console.
+print("Your name " + name + " has " + str(len(name)) + " characters in it.")
 
-# Round some float numbers to the nearest integer.
-print(round(3.738492))
-print(round(3.14159))
-print(round(3.14159, 2))
+# PAUSE 2 - Split everything into variables.
 
+# create the variable "username" and store his/her name in it.
+username = input("What is your name? ")
 
-# PAUSE 3. Assignment Operators.
+# create the variable "length" and store the number of characters of the user's name in it.
+length = len(username)
 
-# The "+=" operator giving the answer "4 + 5" = "9".
-value = 4
-value += 5
-print(value)
+# print out the user's name and the number of characters in it to the console.
+print("Your name " + username + " has " + str(length) + " characters in it.")
 
-# The "-=" operator giving the answer "10 - 3" = "7".
-value = 10
-value -= 3
-print(value)
-
-# The *= operator giving the answer "12 * 3" = "36".
-value = 12
-value *= 3
-print(value)
-
-# The /= operator giving the answer "20 / 4" = "5.0".
-value = 20
-value /= 4
-print(value)
-
-# PAUSE 4. f-Strings
-
-# Use a f-Strings to insert the contents of a variable into a string.
-age = 12
-print(f"I am {age} years old.")
-
-/Users/StephenLearmonth/PycharmProjects/"100 Days of Code - The Complete Python Pro Bootcamp2"/"Day 2"/"Number Manipulation"/task.py
