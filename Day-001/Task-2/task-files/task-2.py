@@ -1,10 +1,10 @@
-# Task 2 - String Manipulation
+# Day 1 - Task 2 - String Manipulation
 
-# PAUSE 1 - use \n to add another line of "hello world".
+# PAUSE 1 - use \n to add another line of "Hello world".
 
-# print out the string "Hello world!" three times to the console,
-# each separated by two new lines.
-print("Hello World!\n\n" + "Hello World!\n\n" + "Hello World!\n\n" )
+# print out the string "Hello world" two times to the console,
+# each separated by a new line.
+print("Hello world\n" + "Hello world\n")
 
 # PAUSE 2 - Add a space between the strings.
 
