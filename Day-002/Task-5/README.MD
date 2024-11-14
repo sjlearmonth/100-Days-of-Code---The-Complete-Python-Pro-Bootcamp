@@ -14,9 +14,9 @@ In this task I learned the following elements about the Python programming langu
 
 -    Capturing user input of a string containing a float number, the total bill amount, and converting the string into a float value that can be used in a mathematical operation. Capturing user input and conversion to a float value is done in a single step in one line of code by embedding the ```input(...)``` function call inside the ```float(...)``` function call. 
 
--    Capturing user input of a string containing an integer number, the percentage tip, and converting it into an integer value that can be used in a mathematical operation. Capturing user input and conversion to an integer value is done in a single step in one line of code, by embedding the ```input(...)``` function call inside the ```float(...)``` function call. 
+-    Capturing user input of a string containing an integer number, the percentage tip, and converting it into an integer value that can be used in a mathematical operation. Capturing user input and conversion to an integer value is done in a single step in one line of code, by embedding the ```input(...)``` function call inside the ```int(...)``` function call. 
 
--    Capturing user input of a string containing an integer number, the number of people in the group, and converting it into an integer value that can be used in a mathematical operation. Capturing user input and conversion to an integer value is done in a single step in one line of code, by embedding the ```input(...)``` function call inside the ```float(...)``` function call.
+-    Capturing user input of a string containing an integer number, the number of people in the group, and converting it into an integer value that can be used in a mathematical operation. Capturing user input and conversion to an integer value is done in a single step in one line of code, by embedding the ```input(...)``` function call inside the ```int(...)``` function call.
 
     
 -    How to use the mathematical operators to calculate the amount of money that each person should pay.
