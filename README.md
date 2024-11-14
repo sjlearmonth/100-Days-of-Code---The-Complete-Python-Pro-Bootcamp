@@ -12,6 +12,21 @@ Most of the input and output for the Python coding challenges I have attempted u
 
 The repository is structured by having 100 directories, one for each of the 100 days of coding in the course. So the first day's coding challenge solution is contained in the directory ```Day-001``` the second day's coding challenge solution is contained in the directory ```Day-002``` and so on up to the last day's coding challenge solution in the directory ```Day-100```. Each directory contains a README.MD file which describes the project for that particular day of coding in the course.
 
+Below is a visual representation of the file structure of the repository:
+
+📂 100-Days-Of-Code---The-Complete-Pyton-Pro-Bootcamp
+├── Day-001
+│   |──- Task-1
+|   |    |
+|   |    └── task-files
+|   |    |   |
+|   |    |   └── task-1.py
+|   |    |
+|   |    └── README.MD        # Summary of the task and what I learned from Day 1 Task 1
+|   | 
+└── README.md            # Main README file at the root of the repository
+
+
 ### Motivation
 
 My personal motivation for studying this course is to learn new skills in Python programming and development and ultimately use my skills to become a Machine Learning (ML) Engineer using Python to develop ML software systems and applications in industry.
