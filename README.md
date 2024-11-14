@@ -12,7 +12,7 @@ Most of the input and output for the Python coding challenges I have attempted u
 
 The repository is structured by having 100 directories, one for each of the 100 days of coding in the course. So the first day's coding challenge solution is contained in the directory ```Day-001``` the second day's coding challenge solution is contained in the directory ```Day-002``` and so on up to the last day's coding challenge solution in the directory ```Day-100```. Each directory contains a README.MD file which describes the project for that particular day of coding in the course.
 
-Below is a visual representation of the file structure of the repository:
+Below is a visual representation of the directory treestructure of the repository:
 
 ```plaintext
 📂 100-Days-Of-Code---The-Complete-Pyton-Pro-Bootcamp
