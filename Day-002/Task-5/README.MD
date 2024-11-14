@@ -21,6 +21,6 @@ In this task I learned the following elements about the Python programming langu
     
 -    How to use the mathematical operators to calculate the amount of money that each person should pay.
 
--    How to use ```f-Strings``` to include float value of how much each person has to pay in the final string printed to the console.
+-    How to use ```f-Strings``` to include the float value of how much each person has to pay in the final string printed to the console.
 
 
