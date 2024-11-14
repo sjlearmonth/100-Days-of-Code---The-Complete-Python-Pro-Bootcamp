@@ -27,8 +27,7 @@ Below is a visual representation of the file structure of the repository:
 │   │    │
 │   │    └── README.MD # Summary of the task and what I learned from Day 1 Task 1
 │   │ 
-└── README.md # Main README file at the root of the repositor
-y
+└── README.md # Main README file at the root of the repository.
 ```
 
 ### Motivation
