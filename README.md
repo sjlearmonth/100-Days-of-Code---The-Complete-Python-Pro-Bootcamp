@@ -14,6 +14,7 @@ The repository is structured by having 100 directories, one for each of the 100 
 
 Below is a visual representation of the file structure of the repository:
 
+```plaintext
 📂 100-Days-Of-Code---The-Complete-Pyton-Pro-Bootcamp
 ├── Day-001
 │   |──- Task-1
@@ -25,7 +26,7 @@ Below is a visual representation of the file structure of the repository:
 |   |    └── README.MD        # Summary of the task and what I learned from Day 1 Task 1
 |   | 
 └── README.md            # Main README file at the root of the repository
-
+```
 
 ### Motivation
 
