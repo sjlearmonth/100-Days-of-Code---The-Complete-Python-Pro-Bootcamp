@@ -38,7 +38,7 @@ Below is a visual representation of the directory tree structure of the reposito
 │   │──- Task-2
 │   │    │── task-files
 │   │    │   └── task-2.py
-│   │        └── README.MD        # Summary of the task and what I learned from Day 2 Task 2.
+│   │    └── README.MD        # Summary of the task and what I learned from Day 2 Task 2.
 
 ... ...
 
