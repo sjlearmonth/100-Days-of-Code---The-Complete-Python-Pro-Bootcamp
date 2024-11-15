@@ -21,9 +21,42 @@ Below is a visual representation of the directory tree structure of the reposito
 │   │──- Task-1
 │   │    │── task-files
 │   │    │   └── task-1.py
-│   │    └── README.MD # Summary of the task and what I learned from Day 1 Task 1
-│   │ 
-└── README.md # Main README file at the root of the repository.
+│   │    └── README.MD        # Summary of the task and what I learned from Day 1 Task 1.
+│   │
+│   └──- Task-2
+│        │── task-files
+│        │   └── task-2.py
+│        └── README.MD        # Summary of the task and what I learned from Day 1 Task 2.
+│   ...
+│
+├── Day-002
+│   │──- Task-1
+│   │    │── task-files
+│   │    │   └── task-1.py
+│   │    └── README.MD        # Summary of the task and what I learned from Day 2 Task 1.
+│   │
+│   └──- Task-2
+│        │── task-files
+│        │   └── task-2.py
+│        └── README.MD        # Summary of the task and what I learned from Day 2 Task 2.
+
+...  ...
+
+│
+├── Day-100
+│   │──- Task-1
+│   │    │── task-files
+│   │    │   └── task-1.py
+│   │    └── README.MD        # Summary of the task and what I learned from Day 100 Task 1.
+│   │
+│   └──- Task-2
+│        │── task-files
+│        │   └── task-2.py
+│        └── README.MD        # Summary of the task and what I learned from Day 100 Task 2.
+│   ...
+│
+│
+└── README.md                 # The README file describing the whole course repository.
 ```
 
 ### Motivation
